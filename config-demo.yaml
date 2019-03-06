@@ -1,0 +1,3 @@
+spring:
+  jdbc:
+    server: test
